@@ -3,7 +3,7 @@ public class BoolDataType {
             boolean isJavaFun = true;
             boolean isFishTasty = false;
             System.out.println("Is Java fun? " + isJavaFun);
-            System.out.println("Is fish tasty? " + isFishTasty);
+            System.out.println("Is mutton tasty? " + isFishTasty);
         }
     }
 
